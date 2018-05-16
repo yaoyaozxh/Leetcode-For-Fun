@@ -1,2 +1,6 @@
 # Leetcode-For-Fun
-Solutions to Leetcode problems
+
+| Id   | Name                    | Notes          |
+|:---- |:------------------------|:---------------|
+| 690  | Employee Importance     | Simple DFS/BFS |
+
