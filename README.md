@@ -7,5 +7,6 @@
 | 417  | Pacific Atlantic Water Flow            | DFS with little trick                    |
 | 547  | Friend Circles                         | Number of connected components in undirected graph |
 | 576  | Out of Boundary Paths                  | DFS with memorization / DP               |
+| 688  | Knight Probability in Chessboard       | DFS with memorization / DP               |
 | 690  | Employee Importance                    | Simple DFS/BFS                           |
 
