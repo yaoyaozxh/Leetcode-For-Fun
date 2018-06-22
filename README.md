@@ -2,6 +2,7 @@
 
 | Id   | Name                                   | Notes                                    |
 |:---- |:---------------------------------------|:-----------------------------------------|
+| 17   | Letter Combinations of a Phone Number  | Backtracking DFS                         |
 | 77   | Combinations                           | Convert Combinations to backtracking DFS |
 | 110  | Balanced Binary Tree                   | Simple DFS                               |
 | 329  | Longest Increasing Path in a Matrix    | DFS with memorization / Topological sort |
