@@ -11,3 +11,4 @@
 | 576  | Out of Boundary Paths                  | DFS with memorization / DP               |
 | 688  | Knight Probability in Chessboard       | DFS with memorization / DP               |
 | 690  | Employee Importance                    | Simple DFS/BFS                           |
+| 846  | Hand of Straights                      | Intuitive method using TreeMap           |
