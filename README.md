@@ -2,6 +2,7 @@
 
 | Id   | Name                                   | Notes                                    |
 |:---- |:---------------------------------------|:-----------------------------------------|
+| 77   | Combinations                           | Convert Combinations to backtracking DFS |
 | 110  | Balanced Binary Tree                   | Simple DFS                               |
 | 329  | Longest Increasing Path in a Matrix    | DFS with memorization / Topological sort |
 | 415  | Add Strings                            | Basic String operations                  |
