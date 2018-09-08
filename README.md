@@ -2,6 +2,7 @@
 
 | Id   | Name                                   | Notes                                    |
 |:---- |:---------------------------------------|:-----------------------------------------|
+| 10   | Regular Expression Matching            | Medium DP                                |
 | 17   | Letter Combinations of a Phone Number  | Backtracking DFS                         |
 | 77   | Combinations                           | Convert Combinations to backtracking DFS |
 | 110  | Balanced Binary Tree                   | Simple DFS                               |
